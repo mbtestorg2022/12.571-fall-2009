@@ -82,7 +82,7 @@ Ravaut, C., S. Opero, L. Improta, J. Virieux, A. Herrero, and P. Dell Aversana. 
 {{< tdopen >}}
 
 
-Xia, J., R. Miller, and C. B. Park. "Estimation of Near-Surface Shear-Wave Velocity by Inversion of Rayleigh Waves." _Geophysics_ 64 (1999): 691-700. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.masw.com/files/XIA-99-04.pdf))
+Xia, J., R. Miller, and C. B. Park. "Estimation of Near-Surface Shear-Wave Velocity by Inversion of Rayleigh Waves." _Geophysics_ 64 (1999): 691-700. ([PDF](http://www.masw.com/files/XIA-99-04.pdf))
 
 Ernst, F. "Long-Wavelength Statics Estimation from Guided Waves." EAGE 2007.
 
@@ -121,7 +121,7 @@ Kelamis, et al. "[Velocity-Independent Redauming: A New Approach to the Near-Sur
 {{< tdopen >}}
 
 
-Colombo, D., and M. De Stefano. _The Leading Edge_ (March 2007): 326-331. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tle.geoscienceworld.org/cgi/reprint/26/3/326))
+Colombo, D., and M. De Stefano. _The Leading Edge_ (March 2007): 326-331. ([PDF](http://tle.geoscienceworld.org/cgi/reprint/26/3/326))
 
 Zhang, J., and D. F. Morgan. "[Detecting Underground Caves Using Joint Seismic and Electrical Imaging Method](https://www.onepetro.org/conference-paper/SEG-2009-3421)." _Expanded Abstract,_ SEG 67th Annual Meeting in Dallas, Texas.
 
